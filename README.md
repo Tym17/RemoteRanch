@@ -5,4 +5,6 @@ An isolated farmer has decided to make an experiment with a new found life form.
 
 Thanks to [KenneyNL](kenney.nl) for most of the assets used.
 
-![Capture](EDIT)
+[Play it in your browser !](https://tym17.itch.io/ld37)
+
+![Capture](https://raw.githubusercontent.com/Tym17/RemoteRanch/master/more/remoteranc.png)
